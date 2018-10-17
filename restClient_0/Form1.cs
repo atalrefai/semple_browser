@@ -245,6 +245,7 @@ namespace restClient_0
         }
         private void refreshToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            RefreshTab();
             tabControl1.SelectedTab.Controls[0].Refresh();
         }
      
