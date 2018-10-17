@@ -1,0 +1,31 @@
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\bin\Debug\restClient_0.exe.config
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\bin\Debug\restClient_0.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\bin\Debug\restClient_0.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.csprojResolveAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.Form1.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.Properties.Resources.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.csproj.GenerateResource.Cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-0 Consuming a REST API\Visual Studio Projects\restClient_0\restClient_0\obj\Debug\restClient_0.pdb
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\bin\Debug\restClient_0.exe.config
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.exe
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.pdb
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\bin\Debug\restClient_0.exe
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\bin\Debug\restClient_0.pdb
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.csprojResolveAssemblyReference.cache
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.Form1.resources
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.Properties.Resources.resources
+C:\Users\MR-al\Downloads\Compressed\VP-0-REST-Client-master\VP-0-REST-Client-master\restClient_0\obj\Debug\restClient_0.csproj.GenerateResource.Cache
+C:\Users\School\Desktop\thread\restClient_0\bin\Debug\restClient_0.exe.config
+C:\Users\School\Desktop\thread\restClient_0\bin\Debug\restClient_0.exe
+C:\Users\School\Desktop\thread\restClient_0\bin\Debug\restClient_0.pdb
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.csprojAssemblyReference.cache
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.Form1.resources
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.Properties.Resources.resources
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.csproj.GenerateResource.cache
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.csproj.CoreCompileInputs.cache
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.exe
+C:\Users\School\Desktop\thread\restClient_0\obj\Debug\restClient_0.pdb
+C:\Users\MR-al\Desktop\thread\restClient_0\bin\Debug\restClient_0.exe.config
+C:\Users\MR-al\Desktop\thread\restClient_0\obj\Debug\restClient_0.exe
+C:\Users\MR-al\Desktop\thread\restClient_0\obj\Debug\restClient_0.pdb
