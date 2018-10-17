@@ -101,6 +101,41 @@ namespace restClient_0
                 MessageBox.Show(x.Message);
             }
         }
+        public void RefreshTab()
+        {
+            RESTClient rClient = new RESTClient();
+            rClient.endPoint = txtRequestURI.Text;
+            string strJSON = string.Empty;
+            responcemsg.Text = "waiting ..";
+            strJSON = rClient.makeRequest();
+            refreshtabpage(strJSON);
+            responcemsg.Text = "";
+            responcemsg.Text = "Done ..";
+            
+        }
+        public void refreshtabpage(string url)
+        {
+            try
+            {
+                tb = new TextBox();
+                tb.Multiline = true;
+                tb.Text = url;
+                tb.Dock = DockStyle.Fill;
+                tb.ScrollBars = ScrollBars.Vertical;
+                //tabControl1.TabPages.Add("New Tab");
+                //tabControl1.SelectTab(i);
+                //var thread = new Thread(ThreadTab)
+                //{
+                //    Name = "tab_thread"
+                //};
+                //thread.Start();
+                //i += 1;
+            }
+            catch (Exception x)
+            {
+                MessageBox.Show(x.Message);
+            }
+        }
         public void ThreadTab()
         {
             Thread.Sleep(0x3e8);
